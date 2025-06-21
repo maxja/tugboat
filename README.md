@@ -1,3 +1,3 @@
-![tugboat logo](./tugboat.png){width=128px}
+![tugboat logo](./tugboat_128.png)
 
 # tugboat
